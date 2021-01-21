@@ -87,7 +87,7 @@
     "express": "^4.16.2",
     "mysql": "^2.16.0",
     "reflect-metadata": "^0.1.12",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "typeorm": "^0.2.8"
   }
 }
